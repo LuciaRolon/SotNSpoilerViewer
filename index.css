@@ -10,4 +10,9 @@
 .log {
     height: 1170px;
     width: 300px;
+    background-color: antiquewhite;
+}
+
+body {
+    background-color: black;
 }
