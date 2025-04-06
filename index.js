@@ -2,7 +2,7 @@ const highlightSpots = {
     "Cube of Zoe": {
         xPos: 200,
         yPos: 970,
-        imageUrl: "Cube_Of_Zoe_Icon.png"
+        imageUrl: "Cube_of_Zoe_Icon.png"
     },
     "Soul of Bat": {
         xPos: 563,
