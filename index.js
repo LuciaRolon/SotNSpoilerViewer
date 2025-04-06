@@ -2,102 +2,102 @@ const highlightSpots = {
     "Cube of Zoe": {
         xPos: 200,
         yPos: 970,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/3/35/Cube_of_Zoe_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033946"
+        imageUrl: "Cube_Of_Zoe_Icon.webp"
     },
     "Soul of Bat": {
         xPos: 563,
         yPos: 785,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/8/89/Soul_of_Bat_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033949"
+        imageUrl: "Soul_of_Bat_Icon.png"
     },
     "Power of Wolf": {
         xPos: 8,
         yPos: 990,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/5/5e/Power_of_Wolf_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033948"
+        imageUrl: "Power_of_Wolf_Icon.png"
     },
     "Skill of Wolf": {
         xPos: 165,
         yPos: 935,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/1/1a/Skill_of_Wolf_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033952"
+        imageUrl: "Skill_of_Wolf_Icon.png"
     },
     "Bat Card": {
         xPos: 140,
         yPos: 862,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/3/38/Card_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325035657"
+        imageUrl: "Card_Icon.png"
     },
     "Spirit Orb": {
         xPos: 285,
         yPos: 910,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/a/ae/Spirit_Orb_Icon.png/revision/latest/scale-to-width-down/45?cb=20150325033612"
+        imageUrl: "Spirit_Orb_Icon.png"
     },
     "Gravity Boots": {
         xPos: 390,
         yPos: 810,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/0/0c/Gravity_Boots_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033952"
+        imageUrl: "Gravity_Boots_Icon.png"
     },
     "Holy glasses": {
         xPos: 370,
         yPos: 910,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/5/5d/Holy_Glasses_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325034317"
+        imageUrl: "Holy_Glasses_Icon.png"
     },
     "Soul of Wolf": {
         xPos: 718,
         yPos: 750,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/6/62/Soul_of_Wolf_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325034314"
+        imageUrl: "Soul_of_Wolf_Icon.png"
     },
     "Faerie Scroll": {
         xPos: 692,
         yPos: 761,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/9/9c/Fairie_Scroll_Icon.png/revision/latest/scale-to-width-down/45?cb=20150325034314"
+        imageUrl: "Fairie_Scroll_Icon.png"
     },
     "Jewel of Open": {
         xPos: 575,
         yPos: 775,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/7/70/Jewel_of_Open_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325034313"
+        imageUrl: "Jewel_of_Open_Icon.png"
     },
     "Faerie Card": {
         xPos: 610,
         yPos: 750,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/3/38/Card_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325035657"
+        imageUrl: "Card_Icon.png"
     },
     "Fire of Bat": {
         xPos: 695,
         yPos: 668,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/e/ee/Fire_of_Bat_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033948"
+        imageUrl: "Fire_of_Bat_Icon.png"
     },
     "Leap Stone": {
         xPos: 357,
         yPos: 667,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/3/36/Leap_Stone_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033950"
+        imageUrl: "Leap_Stone_Icon.png"
     },
     "Power of Mist": {
         xPos: 357,
         yPos: 644,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/b/b4/Power_of_Mist_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033948"
+        imageUrl: "Power_of_Mist_Icon.png"
     },
     "Ghost Card": {
         xPos: 453,
         yPos: 620,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/3/38/Card_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325035657"
+        imageUrl: "Card_Icon.png"
     },
     "Silver ring": {
         xPos: 81,
         yPos: 716,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/a/a8/Silver_Ring_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033610"
+        imageUrl: "Silver_Ring_Icon.png"
     },
     "Echo of Bat": {
         xPos: 177,
         yPos: 729,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/6/69/Echo_of_Bat_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033951"
+        imageUrl: "Echo_of_Bat_Icon.png"
     },
     "Sword Card": {
         xPos: 225,
         yPos: 752,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/3/38/Card_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325035657"
+        imageUrl: "Card_Icon.png"
     },
     "Form of Mist": {
         xPos: 237,
         yPos: 800,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/b/b1/Form_of_Mist_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033949"
+        imageUrl: "Form_of_Mist_Icon.png"
     },
     "Crystal cloak": {
         xPos: 465,
@@ -107,37 +107,37 @@ const highlightSpots = {
     "Gold ring": {
         xPos: 525,
         yPos: 932,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/0/04/Gold_Ring_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033343"
+        imageUrl: "Gold_Ring_Icon.png"
     },
     "Holy Symbol": {
         xPos: 646,
         yPos: 1027,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/d/d0/Holy_Symbol_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033949"
+        imageUrl: "Holy_Symbol_Icon.png"
     },
     "Merman Statue": {
         xPos: 81,
         yPos: 1040,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/b/bc/Merman_Statue_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033950"
+        imageUrl: "Merman_Statue_Icon.png"
     },
     "Demon Card": {
         xPos: 333,
         yPos: 1064,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/3/38/Card_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325035657"
+        imageUrl: "Card_Icon.png"
     },
     "Spike Breaker": {
         xPos: 477,
         yPos: 1148,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/c/cc/Spike_Breaker_Icon.png/revision/latest/scale-to-width-down/50?cb=20150302041349"
+        imageUrl: "Spike_Breaker_Icon.png"
     },
     "Nosedevil Card": {
         xPos: 0,
         yPos: 0,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/3/38/Card_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325035657"
+        imageUrl: "Card_Icon.png"
     },
     "Sprite Card": {
         xPos: 0,
         yPos: 0,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/3/38/Card_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325035657"
+        imageUrl: "Card_Icon.png"
     },
     "Mormegil": {
         xPos: 194,
@@ -147,17 +147,17 @@ const highlightSpots = {
     "Ring of Vlad": {
         xPos: 261,
         yPos: 500,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/7/75/Ring_of_Vlad_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033947"
+        imageUrl: "Ring_of_Vlad_Icon.png"
     },
     "Heart of Vlad": {
         xPos: 465,
         yPos: 464,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/7/78/Heart_of_Vlad_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033946"
+        imageUrl: "Heart_of_Vlad_Icon.png"
     },
     "Rib of Vlad": {
         xPos: 515,
         yPos: 428,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/7/72/Rib_of_Vlad_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033951"
+        imageUrl: "Rib_of_Vlad_Icon.png"
     },
     "Trio": {
         xPos: 501,
@@ -167,12 +167,12 @@ const highlightSpots = {
     "Ring of Arcana": {
         xPos: 585,
         yPos: 296,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/3/35/Cube_of_Zoe_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033946"
+        imageUrl: ""
     },
     "Tooth of Vlad": {
         xPos: 57,
         yPos: 344,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/e/e9/Tooth_of_Vlad_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033951"
+        imageUrl: "Tooth_of_Vlad_Icon.png"
     },
     "Dark Blade": {
         xPos: 261,
@@ -182,17 +182,17 @@ const highlightSpots = {
     "Force of Echo": {
         xPos: 81,
         yPos: 128,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/7/7d/Force_of_Echo_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033947"
+        imageUrl: "Force_of_Echo_Icon.png"
     },
     "Eye of Vlad": {
         xPos: 381,
         yPos: 140,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/e/ec/Eye_of_Vlad_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033946"
+        imageUrl: "Eye_of_Vlad_Icon.png"
     },
     "Gas Cloud": {
         xPos: 537,
         yPos: 20,
-        imageUrl: "https://static.wikia.nocookie.net/castlevania/images/b/b7/Gas_Cloud_Icon.png/revision/latest/scale-to-width-down/50?cb=20150325033947"
+        imageUrl: "Gas_Cloud_Icon.png"
     }
 };
 
